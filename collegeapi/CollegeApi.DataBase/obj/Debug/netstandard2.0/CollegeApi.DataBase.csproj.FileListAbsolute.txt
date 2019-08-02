@@ -1,0 +1,18 @@
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\bin\Debug\netstandard2.0\CollegeApi.DataBase.deps.json
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\bin\Debug\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\bin\Debug\netstandard2.0\CollegeApi.DataBase.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.csprojAssemblyReference.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.AssemblyInfoInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.AssemblyInfo.cs
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\bin\Debug\netstandard2.0\CollegeApi.DataBase.deps.json
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\bin\Debug\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\bin\Debug\netstandard2.0\CollegeApi.DataBase.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.csprojAssemblyReference.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.AssemblyInfoInputs.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.AssemblyInfo.cs
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataBase\obj\Debug\netstandard2.0\CollegeApi.DataBase.pdb

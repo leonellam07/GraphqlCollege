@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeApi", "CollegeApi\CollegeApi.csproj", "{F4964FD8-6016-49B8-B107-4E81C3AB8F6C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7B5B8819-AD3E-4051-A531-7F095930ECCC} = {7B5B8819-AD3E-4051-A531-7F095930ECCC}
+		{A91D078D-FCB1-489C-AAFD-645BB41CD2E8} = {A91D078D-FCB1-489C-AAFD-645BB41CD2E8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeApi.DataAccess", "CollegeApi.DataAccess\CollegeApi.DataAccess.csproj", "{93B03C59-A7C6-4A43-B29D-9B39ECAF1189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeApi.DataBase", "CollegeApi.DataBase\CollegeApi.DataBase.csproj", "{7B5B8819-AD3E-4051-A531-7F095930ECCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeApi.Types", "CollegeApi.Types\CollegeApi.Types.csproj", "{F9DEB8DF-5215-4EAA-98F6-DC452B7449CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeApi.Utilities", "CollegeApi.Utilities\CollegeApi.Utilities.csproj", "{A91D078D-FCB1-489C-AAFD-645BB41CD2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4964FD8-6016-49B8-B107-4E81C3AB8F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4964FD8-6016-49B8-B107-4E81C3AB8F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4964FD8-6016-49B8-B107-4E81C3AB8F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4964FD8-6016-49B8-B107-4E81C3AB8F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B03C59-A7C6-4A43-B29D-9B39ECAF1189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B03C59-A7C6-4A43-B29D-9B39ECAF1189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B03C59-A7C6-4A43-B29D-9B39ECAF1189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B03C59-A7C6-4A43-B29D-9B39ECAF1189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5B8819-AD3E-4051-A531-7F095930ECCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5B8819-AD3E-4051-A531-7F095930ECCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5B8819-AD3E-4051-A531-7F095930ECCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5B8819-AD3E-4051-A531-7F095930ECCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DEB8DF-5215-4EAA-98F6-DC452B7449CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DEB8DF-5215-4EAA-98F6-DC452B7449CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DEB8DF-5215-4EAA-98F6-DC452B7449CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DEB8DF-5215-4EAA-98F6-DC452B7449CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91D078D-FCB1-489C-AAFD-645BB41CD2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91D078D-FCB1-489C-AAFD-645BB41CD2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91D078D-FCB1-489C-AAFD-645BB41CD2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91D078D-FCB1-489C-AAFD-645BB41CD2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65548DFF-A5EF-4FAE-A523-0E9CEADE03DC}
+	EndGlobalSection
+EndGlobal

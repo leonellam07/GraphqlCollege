@@ -1,0 +1,340 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi\\CollegeApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj",
+        "projectName": "CollegeApi.DataAccess",
+        "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\JorgeLam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JorgeLam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj": {
+                "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj",
+        "projectName": "CollegeApi.DataBase",
+        "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj",
+        "packagesPath": "C:\\Users\\JorgeLam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JorgeLam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Types\\CollegeApi.Types.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Types\\CollegeApi.Types.csproj",
+        "projectName": "CollegeApi.Types",
+        "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Types\\CollegeApi.Types.csproj",
+        "packagesPath": "C:\\Users\\JorgeLam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Types\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JorgeLam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj"
+              },
+              "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj": {
+                "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataBase\\CollegeApi.DataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Utilities\\CollegeApi.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Utilities\\CollegeApi.Utilities.csproj",
+        "projectName": "CollegeApi.Utilities",
+        "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Utilities\\CollegeApi.Utilities.csproj",
+        "packagesPath": "C:\\Users\\JorgeLam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JorgeLam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi\\CollegeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi\\CollegeApi.csproj",
+        "projectName": "CollegeApi",
+        "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi\\CollegeApi.csproj",
+        "packagesPath": "C:\\Users\\JorgeLam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JorgeLam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.DataAccess\\CollegeApi.DataAccess.csproj"
+              },
+              "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Types\\CollegeApi.Types.csproj": {
+                "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Types\\CollegeApi.Types.csproj"
+              },
+              "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Utilities\\CollegeApi.Utilities.csproj": {
+                "projectPath": "C:\\Users\\JorgeLam\\Documents\\Visual Studio Projects\\collegeapi\\CollegeApi.Utilities\\CollegeApi.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "GraphiQL": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

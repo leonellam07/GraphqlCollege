@@ -1,0 +1,18 @@
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\bin\Debug\netstandard2.0\CollegeApi.Utilities.deps.json
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\bin\Debug\netstandard2.0\CollegeApi.Utilities.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\bin\Debug\netstandard2.0\CollegeApi.Utilities.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.csprojAssemblyReference.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.AssemblyInfoInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.AssemblyInfo.cs
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\bin\Debug\netstandard2.0\CollegeApi.Utilities.deps.json
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\bin\Debug\netstandard2.0\CollegeApi.Utilities.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\bin\Debug\netstandard2.0\CollegeApi.Utilities.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.csprojAssemblyReference.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.AssemblyInfoInputs.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.AssemblyInfo.cs
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.Utilities\obj\Debug\netstandard2.0\CollegeApi.Utilities.pdb

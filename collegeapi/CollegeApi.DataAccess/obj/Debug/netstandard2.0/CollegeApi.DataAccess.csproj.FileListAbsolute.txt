@@ -1,0 +1,24 @@
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataAccess.deps.json
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataAccess.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataAccess.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataBase.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.AssemblyInfo.cs
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.csproj.CopyComplete
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataAccess.deps.json
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataAccess.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataAccess.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\bin\Debug\netstandard2.0\CollegeApi.DataBase.pdb
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.AssemblyInfo.cs
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.csproj.CopyComplete
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.dll
+C:\Users\JorgeLam\Documents\Visual Studio Projects\collegeapi\CollegeApi.DataAccess\obj\Debug\netstandard2.0\CollegeApi.DataAccess.pdb

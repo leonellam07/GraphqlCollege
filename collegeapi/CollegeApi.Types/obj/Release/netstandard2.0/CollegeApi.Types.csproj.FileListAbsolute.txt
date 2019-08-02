@@ -1,0 +1,14 @@
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.Types.deps.json
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.Types.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.Types.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.DataAccess.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.DataBase.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.DataAccess.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\bin\Release\netstandard2.0\CollegeApi.DataBase.pdb
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.csprojAssemblyReference.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.csproj.CoreCompileInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.AssemblyInfoInputs.cache
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.AssemblyInfo.cs
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.csproj.CopyComplete
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.dll
+C:\Users\Consultor\source\repos\CollegeApi\CollegeApi.Types\obj\Release\netstandard2.0\CollegeApi.Types.pdb
